@@ -1,5 +1,7 @@
 !uBlock filter
 
-! mote
 classroom.google.com##.birdiew-activator
 docs.google.com##.birdiew-activator
+meet.google.com##.tray-button
+meet.google.com##.tray-inner
+docs.google.com##dji-apps-actions
