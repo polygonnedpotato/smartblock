@@ -1,5 +1,5 @@
-! Title: Anti-Rickroll
-! Version: 14October2020v1
+! Title: 🛡️ Anti-Rickroll
+! Version: 12January2021v1
 ! Expires: 1 days
 ! Description: This is a new and commonly updated anti rickroll protection list.
 *##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
