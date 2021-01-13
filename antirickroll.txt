@@ -2,17 +2,18 @@
 ! Version: 12January2021v1
 ! Expires: 1 days
 ! Description: This is a new and commonly updated anti rickroll protection list.
-*##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=oHg5SJYRHA0"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="%2Fwatch%3Fv%3DdQw4w9WgXcQ"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="%2Fwatch%3Fv%3DoHg5SJYRHA0"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="youtu.be/dQw4w9WgXcQ"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="youtu.be/oHg5SJYRHA0"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="youtube-nocookie.com/embed/dQw4w9WgXcQ"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="youtube-nocookie.com/embed/oHg5SJYRHA0"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href$="imgur.com/gallery/yed5Zfk"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="imgur.com/yed5Zfk"]:before:style(content: "(Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=j8PxqgliIno"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="%2Fwatch%3Fv%3DdQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="%2Fwatch%3Fv%3DoHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="youtu.be/dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="youtu.be/oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="youtube-nocookie.com/embed/dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="youtube-nocookie.com/embed/oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href$="imgur.com/gallery/yed5Zfk"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="imgur.com/yed5Zfk"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 ||youtube.com/watch?v=dQw4w9WgXcQ^
 ||youtube.com/watch?v=oHg5SJYRHA0^
 ||youtube.com./watch?v=dQw4w9WgXcQ^
