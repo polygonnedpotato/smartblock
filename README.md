@@ -1,4 +1,4 @@
-# smartblock
+# 🛡️smartblock
 great filters that are updated frequently that does things
 
 these filters are he filters you want and you can use them!
