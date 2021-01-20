@@ -1,5 +1,5 @@
 ! Title: 🛡️ Better NationStates
-! Version: Jan2021
+! Version: Jan2021v0
 ! Expires: 1 days
 ! Description: Improve Your NationStates experience with this list!
 
