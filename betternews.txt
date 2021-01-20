@@ -1,0 +1,34 @@
+! Title: 🛡️ Clean News
+! Version: Jan2021
+! Expires: 1 days
+! Description: A nice news cleaner
+
+! The Oregonian
+www.oregonlive.com##.sidebar
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(1)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(10)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(16)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(23)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(33)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(38)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(48)
+www.oregonlive.com##.subscriberExclusive--oregonlive.subscriberExclusive--article.subscriberExclusive
+www.oregonlive.com##.advToprail__right-corner--subscribe
+www.oregonlive.com##.alert-bar--news-promo.alert-bar
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(11)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(41)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(45)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(51)
+www.oregonlive.com##li.advtoprail__mainmenu-menuitem.advtoprail__dropdown-menuitem:nth-of-type(14)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(44)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(47)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(54)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(21)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(2)
+
+! New York Post
+||nypost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-small.png$image
+
+! The Guardian
+www.theguardian.com###reader-revenue-links-header
+www.theguardian.com##.css-1lactnp

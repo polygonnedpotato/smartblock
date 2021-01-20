@@ -1,0 +1,30 @@
+! Title: 🛡️ Better NationStates
+! Version: Jan2021
+! Expires: 1 days
+! Description: Improve Your NationStates experience with this list!
+
+! Main NationStates Site
+www.nationstates.net###\32 1661895593box
+www.nationstates.net###\32 1661895620box
+www.nationstates.net###\32 1661791338box
+www.nationstates.net###\32 1661895629box
+www.nationstates.net###\32 1661791341box
+www.nationstates.net###\32 1661895599box
+www.nationstates.net###\32 1661895623box
+www.nationstates.net###\32 1661895602box
+www.nationstates.net###\32 1661895605box
+www.nationstates.net###\32 1661792994box
+www.nationstates.net###\32 1661895626box
+www.nationstates.net##.nonregular-content
+www.nationstates.net###maxad
+www.nationstates.net###removead
+www.nationstates.net###createdby10
+www.nationstates.net###foot
+www.nationstates.net###paneladbox
+
+! NationStates Forum
+forum.nationstates.net###headeradbox
+forum.nationstates.net###footeradbox
+forum.nationstates.net###sidebaradbox
+forum.nationstates.net###createdby9
+forum.nationstates.net##p:nth-of-type(4)
