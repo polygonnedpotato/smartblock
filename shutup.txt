@@ -1,1 +1,10 @@
+! Title: 🛡️ Shut UP!
+! Version: January2021
+! Expires: 1 days
+! Description: Because some sites won't SHUT UP!
 
+! Cookie Consents
+www.justmote.me##.cookieConsent
+
+! Useless Banners
+repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
