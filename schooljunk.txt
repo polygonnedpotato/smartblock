@@ -25,3 +25,6 @@ meet.google.com##.tray-inner
 
 ! Repl.it
 repl.it##.teams-for-education-module.jsx-4091627692
+
+! Misc. sources
+||ifajfiofeifbbhbionejdliodenmecna.chromiumapp.org^$subdocument,domain=donjohnston.net
