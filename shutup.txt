@@ -13,3 +13,4 @@ www.wunderground.com##ad-wx-ws.ng-star-inserted
 www.youtube.com##.ytd-rich-metadata-renderer.style-scope.yt-simple-endpoint
 www.youtube.com##ytd-badge-supported-renderer.ytd-video-primary-info-renderer.style-scope > .ytd-badge-supported-renderer.style-scope.badge-style-type-simple.badge > span.ytd-badge-supported-renderer.style-scope
 thumbsdb.herokuapp.com##iframe
+support.google.com##.info-bar-container
