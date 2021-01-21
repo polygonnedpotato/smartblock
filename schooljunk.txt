@@ -16,6 +16,8 @@ classroom.google.com##.gb_fb.gb_jb
 ! Google Docs
 docs.google.com##.birdiew-activator
 docs.google.com##dji-apps-actions
+docs.google.com##.mote-slides-container
+docs.google.com##.mote-activator-container
 
 ! Google Meet
 meet.google.com##.tray-button
