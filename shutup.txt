@@ -6,5 +6,6 @@
 ! Cookie Consents
 www.justmote.me##.cookieConsent
 
-! Useless Banners
+! Useless / Annoying Banners
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
+www.wunderground.com##ad-wx-ws.ng-star-inserted
