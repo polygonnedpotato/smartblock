@@ -25,6 +25,7 @@ www.oregonlive.com##div.InContent_Center_Background:nth-of-type(47)
 www.oregonlive.com##div.InContent_Center_Background:nth-of-type(54)
 www.oregonlive.com##div.InContent_Center_Background:nth-of-type(21)
 www.oregonlive.com##div.InContent_Center_Background:nth-of-type(2)
+www.oregonlive.com##.InContent_Center_Padding
 
 ! New York Post
 ||nypost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-small.png$image
