@@ -1,0 +1,4 @@
+! Title: 🛡️ Anti-Bad Host
+! Version: January2021
+! Expires: 1 days
+! Description: Because some sites eat your data for breakfast.
