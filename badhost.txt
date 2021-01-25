@@ -2,3 +2,12 @@
 ! Version: January2021
 ! Expires: 1 days
 ! Description: Because some sites eat your data for breakfast.
+
+! Ads
+||doubleclick.net^$important
+||static.doubleclick.net^$important
+||googleads.g.doubleclick.net^$important
+
+! Trackers
+||www.youtube-nocookie.com/api/stats/watchtime?ns=yt&el=embedded&cpn=zE6GLBeejV16Sa_Y&docid=KEjgAXxrkXY&ver=2&referrer=https%3A%2F%2Fwww.youtube-nocookie.com%2Fembed%2FKEjgAXxrkXY%3Fautoplay%3D0%26enablejsapi%3D1%26playsinline%3D1%26start%3D0%26cc_lang_pref%3Den%26cc_load_policy%3D1%26hl%3Den%26iv_load_policy%3D3%26controls%3D0%26showinfo%3D0%26modestbranding%3D1%26disablekb%3D1%26rel%3D0%26fs%3D0%26loop%3D0%26wmode%3Dopaque%26origin%3Dhttps%3A%2F%2Fedpuzzle.com&cmt=297.99&ei=VgQPYOe8EoibkwbV6bKgDA&fmt=397&fs=0&rt=1148.028&of=UFLmh_N3bI4OWFb-IlybfA&euri=https%3A%2F%2Fedpuzzle.com%2F&lact=23361&cl=352310174&state=paused&vm=CAEQARgEKix4OW1PdHZBSG5zSklGcEV4VjNmanlOQXZneUZITmNBWmFVS3RaeHlCOFU0PToyQU9HdF9PSnFJTTZERm9WZFJvdndQUHdBV0luczdVVUFLcnEzdXdrZDl4UTFscExteWc&volume=100&cbrand=Google&cbr=Chrome&cbrver=86.0.4240.199&c=WEB_EMBEDDED_PLAYER&cver=20210121&cplayer=UNIPLAYER&cmodel=ChromeBook&cos=CrOS&cosver=13421.102.0&final=1&splay=1&hl=en_US&cr=US&len=309.501&afmt=251&idpj=-8&ldpj=-7&muted=0&st=297.99&et=297.99&vis=3&conn=3&cc=.en$ping,domain=www.youtube-nocookie.com,important
+||www.google-analytics.com^$important
