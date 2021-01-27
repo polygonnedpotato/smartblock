@@ -1,7 +1,12 @@
+[Adblock Plus 2.0]
 ! Title: 🛡️ Anti-Rickroll
 ! Version: 12January2021v1
 ! Expires: 1 days
+!
 ! Description: This is a new and commonly updated anti rickroll protection list.
+!
+! Homepage: https://github.com/polygonnedpotato/smartblock/
+!
 *##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
