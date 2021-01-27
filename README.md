@@ -10,4 +10,4 @@ things to note:
 
 # Subcribe
 
-(Anti-RickRoll)[abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fsmartblock%2Fmaster%2Fantirickroll.txt&title=Anti%2FRickRoll]
+[Anti-RickRoll](abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fsmartblock%2Fmaster%2Fantirickroll.txt&title=Anti%2FRickRoll)
