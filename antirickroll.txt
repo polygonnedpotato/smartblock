@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 🛡️ Anti-Rickroll
+! Title: 🛡️ Anti-RickRoll
 ! Version: 12January2021v1
 ! Expires: 1 days
 !
