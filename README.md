@@ -7,3 +7,7 @@ things to note:
 -- All of these work with uBlock Origin. Please tell me if these can work with another adblocker.
 -- i try to update these as much as possible.
 -- you can help by giving suggestions. use the issues page for suggestions
+
+# Subcribe
+
+[abp:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fpolygonnedpotato%2Fsmartblock%2Fmaster%2Fantirickroll.txt&title=Anti%2FRickRoll](Anti-RickRoll)
