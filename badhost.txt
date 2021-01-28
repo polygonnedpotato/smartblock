@@ -4,12 +4,14 @@
 ! Description: Because some sites eat your data for breakfast.
 
 
-
-
-! Trackers
 ||www.youtube-nocookie.com/api/stats/^$important
 ||google-analytics.com^$important
 ||ssl.google-analitics.com^$important
 ||www.google-analytics.com^$important
 ||stats.g.doubleclick.net^$important
 ||analytics.foresee.com^$important
+||scorecardresearch.com^$important
+||sb.scorecardresearch.com^$important
+||siteimproveanalytics.com^$important
+||studybreakmedia.com^$important
+||atc-edge.studybreakmedia.com^$important
