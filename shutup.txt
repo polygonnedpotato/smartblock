@@ -15,6 +15,7 @@ www.youtube.com##ytd-badge-supported-renderer.ytd-video-primary-info-renderer.st
 thumbsdb.herokuapp.com##iframe
 support.google.com##.info-bar-container
 bitly.com###wow-modal-overlay-2
+getpocket.com##.grecaptcha-badge
 
 ! Product ads
 www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
