@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: 🛡️ Anti-RickRoll
-! Version: 12January2021v1
+! Version: Feb2020
 ! Expires: 1 days
 !
 ! Description: This is a new and commonly updated anti rickroll protection list.
