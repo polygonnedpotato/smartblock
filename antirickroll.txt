@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.4]
 ! Title: 🛡️ Anti-RickRoll
 ! Version: Feb2020
 ! Expires: 1 days
