@@ -4,3 +4,4 @@
 ! Description: Cleans up fragments of useless elements.
 
 docs.google.com##.freebirdFormviewerViewFooterPageBreak.freebirdFormviewerViewFooterImageContainer
+www.akc.org##.is-visible.headroom--not-top.headroom--not-bottom.social-share
