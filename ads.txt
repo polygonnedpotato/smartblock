@@ -25,4 +25,5 @@ asciiart.club##aside:nth-of-type(1)
 ||pagead2.googlesyndication.com^$important
 ||moatads.com^$important
 ||ads.msn.com^$important
-
+www.chromestory.com##.widget-area.ad-content
+www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
