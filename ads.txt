@@ -1,5 +1,5 @@
 ! Title: 🛡️ Ads
-! Version: Jan2021
+! Version: Feb2021
 ! Expires: 1 days
 ! Description: Generic Ad filter
 
