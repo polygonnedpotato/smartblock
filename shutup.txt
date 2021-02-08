@@ -16,8 +16,8 @@ thumbsdb.herokuapp.com##iframe
 support.google.com##.info-bar-container
 bitly.com###wow-modal-overlay-2
 getpocket.com##.grecaptcha-badge
-||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
 github.com##.p-4.mb-4.rounded-2.position-relative.js-notice
 
 ! Product ads
 www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
+||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
