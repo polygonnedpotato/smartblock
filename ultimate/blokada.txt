@@ -1,12 +1,6 @@
-[Adblock Plus 3.4]
-! Title: 🛡️ SmartBlock Ultimate
-! Version: Febuary182020
-! Expires: 10 days
-!
-! Description: This is a rarely update version of SmartBlock. This version is ment to be compatable with Blokada.
-!
-! Homepage: https://github.com/polygonnedpotato/smartblock/
-!
+# Title: 🛡️ SmartBlock
+# Description: SmartBlock for Blokada
+# Updated: Thursday 18, Febuary 2020
 !ads
 blog.prepscholar.com##.row-number-7.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-custom_widget.widget-span.span12
 blog.prepscholar.com##.row-number-10.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-raw_html.widget-span.span12
