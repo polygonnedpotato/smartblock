@@ -1,0 +1,161 @@
+[Adblock Plus 3.4]
+! Title: 🛡️ SmartBlock Ultimate
+! Version: Febuary182020
+! Expires: 10 days
+!
+! Description: This is a rarely update version of SmartBlock. This version is ment to be compatable with Blokada.
+!
+! Homepage: https://github.com/polygonnedpotato/smartblock/
+!
+!ads
+blog.prepscholar.com##.row-number-7.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-custom_widget.widget-span.span12
+blog.prepscholar.com##.row-number-10.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-raw_html.widget-span.span12
+blog.prepscholar.com##.row-number-13.row-depth-1.row-fluid-wrapper
+blog.prepscholar.com##.post-body.section > .promobox
+||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
+||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
+asciiart.club##aside:nth-of-type(1)
+||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
+||doubleclick.net^$important
+||bid.g.doubleclick.net^$important
+||cm.g.doubleclick.net^$important
+||static.doubleclick.net^$important
+||googleads.g.doubleclick.net^$important
+||googleads4.g.doubleclick.net^$important
+||pubads.g.doubleclick.net^$important
+||securepubads.g.doubleclick.net^$important
+||adservice.google.com^$important
+||googleadservices.com^$important
+||partner.googleadservices.com^$important
+||pagead2.googlesyndication.com^$important
+||moatads.com^$important
+||ads.msn.com^$important
+www.chromestory.com##.widget-area.ad-content
+www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
+www.pcsuggest.com##.entry-content > div
+!anti-rickroll
+*##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=j8PxqgliIno"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=DLzxrzFCyOs"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=xfr64zoBTAQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="https://bit.ly/3scG9QD"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="https://drive.google.com/file/d/1QRmoNmvH7eqYoXPuuFGFqn-GON3l4d1K/view?usp=sharing"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=Tt7bzxurJ1I"]:before:style(content: "(Fake: Rickroll and Stickbug) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=lVnd36HU1io"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="/watch?v=7sK3AqFYAWQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="%2Fwatch%3Fv%3DdQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="%2Fwatch%3Fv%3DoHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="youtu.be/dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="youtu.be/oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="youtube-nocookie.com/embed/dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="youtube-nocookie.com/embed/oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href$="imgur.com/gallery/yed5Zfk"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+*##a[href*="imgur.com/yed5Zfk"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
+||youtube.com/watch?v=dQw4w9WgXcQ^
+||youtube.com/watch?v=oHg5SJYRHA0^
+||youtube.com./watch?v=dQw4w9WgXcQ^
+||youtube.com./watch?v=oHg5SJYRHA0^
+||youtu.be/dQw4w9WgXcQ^
+||youtu.be/oHg5SJYRHA0^
+||imgur.com/*yed5Zfk
+!badhost
+||www.youtube-nocookie.com/api/stats/^$important
+||google-analytics.com^$important
+||ssl.google-analitics.com^$important
+||www.google-analytics.com^$important
+||stats.g.doubleclick.net^$important
+||analytics.foresee.com^$important
+||scorecardresearch.com^$important
+||sb.scorecardresearch.com^$important
+||siteimproveanalytics.com^$important
+||studybreakmedia.com^$important
+||atc-edge.studybreakmedia.com^$important
+!news
+www.oregonlive.com##.sidebar
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(1)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(10)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(16)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(23)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(33)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(38)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(48)
+www.oregonlive.com##.subscriberExclusive--oregonlive.subscriberExclusive--article.subscriberExclusive
+www.oregonlive.com##.advToprail__right-corner--subscribe
+www.oregonlive.com##.alert-bar--news-promo.alert-bar
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(11)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(41)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(45)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(51)
+www.oregonlive.com##li.advtoprail__mainmenu-menuitem.advtoprail__dropdown-menuitem:nth-of-type(14)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(44)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(47)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(54)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(21)
+www.oregonlive.com##div.InContent_Center_Background:nth-of-type(2)
+www.oregonlive.com##.InContent_Center_Padding
+||nypost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-small.png$image
+www.theguardian.com###reader-revenue-links-header
+www.theguardian.com##.css-1lactnp
+!nation-states
+www.nationstates.net###\32 1661895593box
+www.nationstates.net###\32 1661895620box
+www.nationstates.net###\32 1661791338box
+www.nationstates.net###\32 1661895629box
+www.nationstates.net###\32 1661791341box
+www.nationstates.net###\32 1661895599box
+www.nationstates.net###\32 1661895623box
+www.nationstates.net###\32 1661895602box
+www.nationstates.net###\32 1661895605box
+www.nationstates.net###\32 1661792994box
+www.nationstates.net###\32 1661895626box
+www.nationstates.net###\32 1661895611box
+www.nationstates.net###\32 1661895608box
+www.nationstates.net##.nonregular-content
+www.nationstates.net###maxad
+www.nationstates.net###removead
+www.nationstates.net###createdby10
+www.nationstates.net###foot
+www.nationstates.net###paneladbox
+||www.google-analytics.com/analytics.js$script,domain=nationstates.net
+forum.nationstates.net###headeradbox
+forum.nationstates.net###footeradbox
+forum.nationstates.net###sidebaradbox
+forum.nationstates.net###createdby9
+forum.nationstates.net##p:nth-of-type(4)
+||www.google-analytics.com/analytics.js$script,domain=forum.nationstates.net
+!fragments
+docs.google.com##.freebirdFormviewerViewFooterPageBreak.freebirdFormviewerViewFooterImageContainer
+www.akc.org##.is-visible.headroom--not-top.headroom--not-bottom.social-share
+!schooljunk
+classroom.google.com##.birdiew-activator
+classroom.google.com##dji-word-bank
+classroom.google.com###__dji_sru_main_container
+classroom.google.com##dji-cowriter
+classroom.google.com###gtx-trans
+classroom.google.com###ow25 > .K2mXPb.I12f0b.WzwrXb.JRtysb.U26fgb
+classroom.google.com##.gb_ma.gb_2a.gb_l.gb_F.gb_1a > div:nth-of-type(1)
+classroom.google.com##.gb_fb.gb_jb
+docs.google.com##.birdiew-activator
+docs.google.com##dji-apps-actions
+docs.google.com##.mote-slides-container
+docs.google.com##.mote-activator-container
+meet.google.com##.tray-button
+meet.google.com##.tray-inner
+repl.it##.teams-for-education-module.jsx-4091627692
+||ifajfiofeifbbhbionejdliodenmecna.chromiumapp.org^$subdocument,domain=donjohnston.net
+!shutup
+www.justmote.me##.cookieConsent
+repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
+www.wunderground.com##ad-wx-ws.ng-star-inserted
+www.wunderground.com##ad-wx-ws.ng-star-inserted
+www.youtube.com##.ytd-rich-metadata-renderer.style-scope.yt-simple-endpoint
+www.youtube.com##ytd-badge-supported-renderer.ytd-video-primary-info-renderer.style-scope > .ytd-badge-supported-renderer.style-scope.badge-style-type-simple.badge > span.ytd-badge-supported-renderer.style-scope
+thumbsdb.herokuapp.com##iframe
+support.google.com##.info-bar-container
+bitly.com###wow-modal-overlay-2
+getpocket.com##.grecaptcha-badge
+github.com##.p-4.mb-4.rounded-2.position-relative.js-notice
+www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
+||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
