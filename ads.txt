@@ -27,3 +27,4 @@ asciiart.club##aside:nth-of-type(1)
 ||ads.msn.com^$important
 www.chromestory.com##.widget-area.ad-content
 www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
+www.pcsuggest.com##.entry-content > div
