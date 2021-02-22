@@ -5,3 +5,5 @@
 
 docs.google.com##.freebirdFormviewerViewFooterPageBreak.freebirdFormviewerViewFooterImageContainer
 www.akc.org##.is-visible.headroom--not-top.headroom--not-bottom.social-share
+docs.google.com##.gb_fb.gb_jb
+docs.google.com##.companion-app-switcher-separator
