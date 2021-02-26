@@ -38,3 +38,7 @@ www.pcsuggest.com##.entry-content > div
 ||admanmedia.com^$important
 ||cs.admanmedia.com^$important
 ||adnxs.com^$important
+||apps.jeurissen.co/_/apps/dss.png$image
+apps.jeurissen.co##.cja-sqrimage--nolabel.cja-sqrimage
+apps.jeurissen.co##.cja-card.cja-btmimage
+attacomsian.com##.border-success.border-2.bg-green-25.card
