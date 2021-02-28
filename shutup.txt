@@ -22,9 +22,5 @@ www.neverware.com###announcement-bar-text-inner-id > p
 www.neverware.com##.sqs-announcement-bar-url
 www.neverware.com##.sqs-announcement-bar-close
 
-! Product ads
-www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
-||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
-
 ! SuBsCrIbE1!
 internetbankroll.com##.wp_subscribe.widget
