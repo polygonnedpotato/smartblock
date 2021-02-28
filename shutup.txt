@@ -17,6 +17,10 @@ support.google.com##.info-bar-container
 bitly.com###wow-modal-overlay-2
 getpocket.com##.grecaptcha-badge
 github.com##.p-4.mb-4.rounded-2.position-relative.js-notice
+www.neverware.com##.sqs-announcement-bar-text
+www.neverware.com###announcement-bar-text-inner-id > p
+www.neverware.com##.sqs-announcement-bar-url
+www.neverware.com##.sqs-announcement-bar-close
 
 ! Product ads
 www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
