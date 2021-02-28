@@ -11,3 +11,4 @@ forecast.weather.gov##.addthis_separator
 docs.google.com##.docs-butterbar-wrap
 internetbankroll.com##body > div:nth-of-type(2)
 internetbankroll.com##.footer-sml-layout-1.ast-small-footer
+www.neverware.com###block-yui_3_17_2_1_1593282462377_12267
