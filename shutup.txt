@@ -1,5 +1,5 @@
 ! Title: 🛡️ Shut UP!
-! Version: Feb2021
+! Version: Mar2021
 ! Expires: 1 days
 ! Description: Because some sites won't SHUT UP!
 
