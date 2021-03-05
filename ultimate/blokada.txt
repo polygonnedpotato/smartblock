@@ -1,6 +1,7 @@
 # Title: 🛡️ SmartBlock
 # Description: SmartBlock for Blokada
-# Updated: Thursday 18, Febuary 2020
+# Updated: Friday 5, March 2021
+# Homepage: github.com/polygonnedpotato/smartblock/
 !ads
 blog.prepscholar.com##.row-number-7.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-custom_widget.widget-span.span12
 blog.prepscholar.com##.row-number-10.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-raw_html.widget-span.span12
@@ -27,6 +28,22 @@ asciiart.club##aside:nth-of-type(1)
 www.chromestory.com##.widget-area.ad-content
 www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
 www.pcsuggest.com##.entry-content > div
+||adentifi.com^$important
+||rtb.adentifi.com^$important
+||adform.net^$important
+||c1.adform.net^$important
+||dmp.adform.net^$important
+||adgrx.com^$important
+||cm.adgrx.com^$important
+||admanmedia.com^$important
+||cs.admanmedia.com^$important
+||adnxs.com^$important
+||apps.jeurissen.co/_/apps/dss.png$image
+apps.jeurissen.co##.cja-sqrimage--nolabel.cja-sqrimage
+apps.jeurissen.co##.cja-card.cja-btmimage
+attacomsian.com##.border-success.border-2.bg-green-25.card
+www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
+||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
 !anti-rickroll
 *##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
@@ -122,6 +139,15 @@ forum.nationstates.net##p:nth-of-type(4)
 !fragments
 docs.google.com##.freebirdFormviewerViewFooterPageBreak.freebirdFormviewerViewFooterImageContainer
 www.akc.org##.is-visible.headroom--not-top.headroom--not-bottom.social-share
+docs.google.com##.gb_fb.gb_jb
+docs.google.com##.companion-app-switcher-separator
+forecast.weather.gov##.addthis_separator
+docs.google.com##.docs-butterbar-wrap
+internetbankroll.com##body > div:nth-of-type(2)
+internetbankroll.com##.footer-sml-layout-1.ast-small-footer
+www.neverware.com###block-yui_3_17_2_1_1593282462377_12267
+docs.google.com##.goog-inline-block.goog-toolbar-separator
+||www.google.com/images/cleardot.gif$image,important
 !schooljunk
 classroom.google.com##.birdiew-activator
 classroom.google.com##dji-word-bank
@@ -135,6 +161,7 @@ docs.google.com##.birdiew-activator
 docs.google.com##dji-apps-actions
 docs.google.com##.mote-slides-container
 docs.google.com##.mote-activator-container
+docs.google.com##.gb_5a.gb_6a
 meet.google.com##.tray-button
 meet.google.com##.tray-inner
 repl.it##.teams-for-education-module.jsx-4091627692
@@ -151,5 +178,9 @@ support.google.com##.info-bar-container
 bitly.com###wow-modal-overlay-2
 getpocket.com##.grecaptcha-badge
 github.com##.p-4.mb-4.rounded-2.position-relative.js-notice
-www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
-||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
+www.neverware.com##.sqs-announcement-bar-text
+www.neverware.com###announcement-bar-text-inner-id > p
+www.neverware.com##.sqs-announcement-bar-url
+www.neverware.com##.sqs-announcement-bar-close
+replit.com##div.jsx-2747485316:nth-of-type(1) > .jsx-3806357321
+internetbankroll.com##.wp_subscribe.widget
