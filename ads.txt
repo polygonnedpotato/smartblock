@@ -2,6 +2,7 @@
 ! Version: Mar2021
 ! Expires: 1 days
 ! Description: Generic Ad filter
+! Homepage: https://github.com/polygonnedpotato/smartblock
 
 blog.prepscholar.com##.row-number-7.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-custom_widget.widget-span.span12
 blog.prepscholar.com##.row-number-10.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-raw_html.widget-span.span12
