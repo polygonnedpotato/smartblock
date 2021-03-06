@@ -1,5 +1,5 @@
 ! Title: 🛡️ Ads
-! Version: Feb2021
+! Version: Mar2021
 ! Expires: 1 days
 ! Description: Generic Ad filter
 
@@ -44,3 +44,4 @@ apps.jeurissen.co##.cja-card.cja-btmimage
 attacomsian.com##.border-success.border-2.bg-green-25.card
 www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
 ||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
+www.w3schools.com##div.sidesection:nth-of-type(4)
