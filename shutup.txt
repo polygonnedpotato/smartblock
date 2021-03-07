@@ -22,6 +22,11 @@ www.neverware.com###announcement-bar-text-inner-id > p
 www.neverware.com##.sqs-announcement-bar-url
 www.neverware.com##.sqs-announcement-bar-close
 replit.com##div.jsx-2747485316:nth-of-type(1) > .jsx-3806357321
+en.wikipedia.org##.compact-ambox.ambox-multiple_issues.ambox-content.ambox.metadata.plainlinks.box-Multiple_issues
+
+! Powered by annoyance
+en.wikipedia.org###footer-copyrightico
+en.wikipedia.org###footer-poweredbyico
 
 ! SuBsCrIbE1!
 internetbankroll.com##.wp_subscribe.widget
