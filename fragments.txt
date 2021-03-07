@@ -14,3 +14,4 @@ internetbankroll.com##.footer-sml-layout-1.ast-small-footer
 www.neverware.com###block-yui_3_17_2_1_1593282462377_12267
 docs.google.com##.goog-inline-block.goog-toolbar-separator
 ||www.google.com/images/cleardot.gif$image,important
+account.microsoft.com##.divider-89
