@@ -94,3 +94,4 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||atc-edge.studybreakmedia.com^$important
 ||youborafds01.com^$important
 ||a-fds.youborafds01.com^$important
+crxextractor.com##.offer
