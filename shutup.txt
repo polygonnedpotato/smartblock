@@ -3,8 +3,9 @@
 ! Expires: 1 days
 ! Description: Because some sites won't SHUT UP!
 
-! Cookie Consents
+! Cookie Consents and Such
 www.justmote.me##.cookieConsent
+w.soundcloud.com##.sc-background-light.cookiePolicy
 
 ! Useless / Annoying Banners
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
