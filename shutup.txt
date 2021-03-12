@@ -7,6 +7,7 @@
 www.justmote.me##.cookieConsent
 w.soundcloud.com##.sc-background-light.cookiePolicy
 www.colorpilot.com###eu-cookie-bar
+duino4projects.com###cookie-law-info-bar
 
 ! Useless / Annoying Banners
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
@@ -32,4 +33,3 @@ en.wikipedia.org###footer-poweredbyico
 
 ! SuBsCrIbE1!
 internetbankroll.com##.wp_subscribe.widget
-duino4projects.com##.duino-widget.widget
