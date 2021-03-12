@@ -32,3 +32,4 @@ en.wikipedia.org###footer-poweredbyico
 
 ! SuBsCrIbE1!
 internetbankroll.com##.wp_subscribe.widget
+duino4projects.com##.duino-widget.widget
