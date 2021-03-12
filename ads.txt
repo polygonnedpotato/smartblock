@@ -95,3 +95,8 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||youborafds01.com^$important
 ||a-fds.youborafds01.com^$important
 crxextractor.com##.offer
+duino4projects.com##div.widget_text.widget:nth-of-type(6)
+duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(8)
+duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(3)
+||duino4projects.com/wp-content/uploads/2020/03/412x52.jpg$image
+www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
