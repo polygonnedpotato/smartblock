@@ -1,7 +1,7 @@
 [Adblock Plus 3.4]
 ! Title: 🛡️ SmartBlock Ultimate
-! Version: Febuary182020
-! Expires: 10 days
+! Version: March122020
+! Expires: 7 days
 !
 ! Description: This is a rarely update version of SmartBlock.
 !
