@@ -26,6 +26,7 @@ www.neverware.com##.sqs-announcement-bar-url
 www.neverware.com##.sqs-announcement-bar-close
 replit.com##div.jsx-2747485316:nth-of-type(1) > .jsx-3806357321
 en.wikipedia.org##.compact-ambox.ambox-multiple_issues.ambox-content.ambox.metadata.plainlinks.box-Multiple_issues
+dotnet.microsoft.com##.site-banners
 
 ! Powered by annoyance
 en.wikipedia.org###footer-copyrightico
