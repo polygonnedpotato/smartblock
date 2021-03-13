@@ -1,6 +1,7 @@
 # Title: 🛡️ SmartBlock
 # Description: SmartBlock for Blokada
-# Updated: Friday 5, March 2021
+# Updated: Friday 12, March 2021
+# Expires: 1 days
 # Homepage: github.com/polygonnedpotato/smartblock/
 !ads
 blog.prepscholar.com##.row-number-7.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-custom_widget.widget-span.span12
@@ -44,6 +45,61 @@ apps.jeurissen.co##.cja-card.cja-btmimage
 attacomsian.com##.border-success.border-2.bg-green-25.card
 www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
 ||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
+www.w3schools.com##div.sidesection:nth-of-type(4)
+||acdn.adnxs.com^$important
+||ib.adnxs.com^$important
+||m.adnxs.com^$important
+||secure.adnxs.com^$important
+||adsafeprotected.com^$important
+||static.adsafeprotected.com^$important
+||adsrvr.org^$important
+||match.adsrvr.org^$important
+||adsymptotic.com^$important
+||p.adsymptotic.com^$important
+||advertising.com^$important
+||ads.adaptv.advertising.com^$important
+||pixel.advertising.com^$important
+||amazon-adsystem.com^$important
+||c.amazon-adsystem.com^$important
+||s.amazon-adsystem.com^$important
+||amplitude.com^$important
+||api.amplitude.com^$important
+||carbonads.com^$important
+||cdn.carbonads.com^$important
+||cfigroup.com^$important
+||cdnmon.cfigroup.com^$important
+||ads.creative-serving.com^$important
+||criteo.net^$important
+||static.criteo.net^$important
+||web.hb.ad.cpe.dotomi.com^$important
+||foresee.com^$important
+||gateway.foresee.com^$important
+||googletagmanager.com^$important
+||www.googletagmanager.com^$important
+||googletagservices.com^$important
+||www.googletagservices.com^$important
+||z.moatads.com^$important
+||pub.network^$important
+||a.pub.network^$important
+||publift.com^$important
+||cdn.publift.com^$important
+||pubmatic.com^$important
+||ads.pubmatic.com^$important
+||rubiconproject.com^$important
+||ads.rubiconproject.com^$important
+||scorecardresearch.com^$important
+||sb.scorecardresearch.com^$important
+||siteimproveanalytics.com^$important
+||studybreakmedia.com^$important
+||atc-edge.studybreakmedia.com^$important
+||youborafds01.com^$important
+||a-fds.youborafds01.com^$important
+crxextractor.com##.offer
+duino4projects.com##div.widget_text.widget:nth-of-type(6)
+duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(8)
+duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(3)
+||duino4projects.com/wp-content/uploads/2020/03/412x52.jpg$image
+www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
 !anti-rickroll
 *##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
@@ -148,6 +204,11 @@ internetbankroll.com##.footer-sml-layout-1.ast-small-footer
 www.neverware.com###block-yui_3_17_2_1_1593282462377_12267
 docs.google.com##.goog-inline-block.goog-toolbar-separator
 ||www.google.com/images/cleardot.gif$image,important
+account.microsoft.com##.divider-89
+www.text2speech.org###wrap > .gc-wrap
+||mobile.weather.gov/images/blank.png$image,important
+||collector.githubapp.com/github/page_view?dimensions[page]=https%3A%2F%2Fgithub.com%2F&dimensions[title]=GitHub&dimensions[referrer]=&dimensions[user_agent]=Mozilla%2F5.0%20(X11%3B%20CrOS%20x86_64%2013597.66.0)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.90%20Safari%2F537.36&dimensions[screen_resolution]=1920x1080&dimensions[pixel_ratio]=0.8999999761581421&dimensions[browser_resolution]=1117x485&dimensions[tz_seconds]=-28800&dimensions[timestamp]=1615229182225&&dimensions[request_id]=B180%3A06B7%3A301C0C3%3A3FC6A9B%3A604670FC&dimensions[visitor_id]=5311538025956241678&dimensions[region_edge]=iad&dimensions[region_render]=iad&&measures[performance_timing]=1-307-128-1709-1157-1155-1105-868-128-31-3--1709-0---307-947-852-214--&&dimensions[actor_id]=73083772&dimensions[actor_login]=polygonnedpotato&dimensions[actor_hash]=93ec06d6b1e4eddf4768b7fc37dc0d769226b41098a93be9f7323543e787276b&dimensions[cid]=1236688817.1612312846$image,important
+lo.cesdk12.org##.separator
 !schooljunk
 classroom.google.com##.birdiew-activator
 classroom.google.com##dji-word-bank
@@ -165,9 +226,13 @@ docs.google.com##.gb_5a.gb_6a
 meet.google.com##.tray-button
 meet.google.com##.tray-inner
 repl.it##.teams-for-education-module.jsx-4091627692
+replit.com##.teams-for-education-module.jsx-1404246044
 ||ifajfiofeifbbhbionejdliodenmecna.chromiumapp.org^$subdocument,domain=donjohnston.net
 !shutup
 www.justmote.me##.cookieConsent
+w.soundcloud.com##.sc-background-light.cookiePolicy
+www.colorpilot.com###eu-cookie-bar
+duino4projects.com###cookie-law-info-bar
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
 www.wunderground.com##ad-wx-ws.ng-star-inserted
 www.wunderground.com##ad-wx-ws.ng-star-inserted
@@ -183,4 +248,8 @@ www.neverware.com###announcement-bar-text-inner-id > p
 www.neverware.com##.sqs-announcement-bar-url
 www.neverware.com##.sqs-announcement-bar-close
 replit.com##div.jsx-2747485316:nth-of-type(1) > .jsx-3806357321
+en.wikipedia.org##.compact-ambox.ambox-multiple_issues.ambox-content.ambox.metadata.plainlinks.box-Multiple_issues
+dotnet.microsoft.com##.site-banners
+en.wikipedia.org###footer-copyrightico
+en.wikipedia.org###footer-poweredbyico
 internetbankroll.com##.wp_subscribe.widget
