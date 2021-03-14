@@ -100,3 +100,7 @@ duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(8)
 duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(3)
 ||duino4projects.com/wp-content/uploads/2020/03/412x52.jpg$image
 www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
+www.systemtek.co.uk##.tg-footer-main-widget
+www.systemtek.co.uk###custom_html-16
+www.systemtek.co.uk###custom_html-2
+www.systemtek.co.uk##.clearfix.jetpack_subscription_widget.widget_blog_subscription.widget
