@@ -15,3 +15,6 @@
 ||siteimproveanalytics.com^$important
 ||studybreakmedia.com^$important
 ||atc-edge.studybreakmedia.com^$important
+||app-measurement.com
+||\/\/app-measurement.com
+||metrics.icloud.com
