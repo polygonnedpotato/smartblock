@@ -23,3 +23,4 @@ geohack.toolforge.org##.geoservices.plainlinks.mobile-linearize p
 www.google.com##.unknown_loc.yLngu
 www.google.com##.iblpc
 www.google.com##.FqnKTc
+winaero.com##p:nth-of-type(2)
