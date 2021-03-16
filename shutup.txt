@@ -8,6 +8,7 @@ www.justmote.me##.cookieConsent
 w.soundcloud.com##.sc-background-light.cookiePolicy
 www.colorpilot.com###eu-cookie-bar
 duino4projects.com###cookie-law-info-bar
+winaero.com###cookie-law-info-bar
 
 ! Useless / Annoying Banners
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
