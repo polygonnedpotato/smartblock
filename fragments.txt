@@ -1,7 +1,7 @@
 ! Title: 🛡️ Web Fragments
 ! Version: Mar2021
 ! Expires: 1 days
-! Description: Cleans up fragments of useless elements.
+! Description: Cleans up fragments of useless elements, saving bandwidth, data, storage, and CPU
 
 docs.google.com##.freebirdFormviewerViewFooterPageBreak.freebirdFormviewerViewFooterImageContainer
 www.akc.org##.is-visible.headroom--not-top.headroom--not-bottom.social-share
@@ -24,3 +24,4 @@ www.google.com##.unknown_loc.yLngu
 www.google.com##.iblpc
 www.google.com##.FqnKTc
 winaero.com##p:nth-of-type(2)
+winaero.com##.custom-html-widget.textwidget > p
