@@ -105,3 +105,4 @@ www.systemtek.co.uk###custom_html-16
 www.systemtek.co.uk###custom_html-2
 www.systemtek.co.uk##.clearfix.jetpack_subscription_widget.widget_blog_subscription.widget
 ||adservice.google.com^$important
+winaero.com##.gadsens-ad
