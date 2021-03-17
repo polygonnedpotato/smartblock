@@ -18,3 +18,8 @@
 ||app-measurement.com
 ||\/\/app-measurement.com
 ||metrics.icloud.com
+||logfiles.zoom.us
+||crashlyticsreports-pa.googleapis.com
+||pinpoint.us-east-1.amazonaws.com
+||api2.branch.io
+||cstat.apple.com
