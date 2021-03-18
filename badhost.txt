@@ -1,8 +1,8 @@
 ! Title: 🛡️ Anti-Bad Host
-! Version: January2021
+! Version: March2021
 ! Expires: 1 days
 ! Description: Because some sites eat your data for breakfast.
-
+! Homepage: https://github.com/polygonnedpotato/smartblock
 
 ||www.youtube-nocookie.com/api/stats/^$important
 ||google-analytics.com^$important
