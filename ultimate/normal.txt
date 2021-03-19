@@ -1,12 +1,9 @@
-[Adblock Plus 3.4]
-! Title: 🛡️ SmartBlock Ultimate
-! Version: March122020
+[AdBlock Plus 3.4]
+! Title: 🛡️ SmartBlock
+! Description: SmartBlock is an AdBlocking filter service that blocks as for your browsing experence. (You are using the Ultimate version, which is updated every Friday.)
+! Updated: Friday 19, March 2021
 ! Expires: 7 days
-!
-! Description: This is a rarely update version of SmartBlock.
-!
-! Homepage: https://github.com/polygonnedpotato/smartblock/
-!
+! Homepage: github.com/polygonnedpotato/smartblock/
 !ads
 blog.prepscholar.com##.row-number-7.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-custom_widget.widget-span.span12
 blog.prepscholar.com##.row-number-10.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-raw_html.widget-span.span12
@@ -104,6 +101,14 @@ duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(8)
 duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(3)
 ||duino4projects.com/wp-content/uploads/2020/03/412x52.jpg$image
 www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
+www.systemtek.co.uk##.tg-footer-main-widget
+www.systemtek.co.uk###custom_html-16
+www.systemtek.co.uk###custom_html-2
+www.systemtek.co.uk##.clearfix.jetpack_subscription_widget.widget_blog_subscription.widget
+||adservice.google.com^$important
+winaero.com##.gadsens-ad
+winaero.com###dfsfsdfs-asdasd-2
+winaero.com###adv-container
 !anti-rickroll
 *##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
@@ -143,6 +148,19 @@ www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezm
 ||siteimproveanalytics.com^$important
 ||studybreakmedia.com^$important
 ||atc-edge.studybreakmedia.com^$important
+||app-measurement.com
+||\/\/app-measurement.com
+||metrics.icloud.com
+||logfiles.zoom.us
+||crashlyticsreports-pa.googleapis.com
+||pinpoint.us-east-1.amazonaws.com
+||api2.branch.io
+||cstat.apple.com
+||logfiles.zoom.us
+||crashlyticsreports-pa.googleapis.com
+||pinpoint.us-east-1.amazonaws.com
+||api2.branch.io
+||cstat.apple.com
 !news
 www.oregonlive.com##.sidebar
 www.oregonlive.com##div.InContent_Center_Background:nth-of-type(1)
@@ -213,6 +231,12 @@ www.text2speech.org###wrap > .gc-wrap
 ||mobile.weather.gov/images/blank.png$image,important
 ||collector.githubapp.com/github/page_view?dimensions[page]=https%3A%2F%2Fgithub.com%2F&dimensions[title]=GitHub&dimensions[referrer]=&dimensions[user_agent]=Mozilla%2F5.0%20(X11%3B%20CrOS%20x86_64%2013597.66.0)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.90%20Safari%2F537.36&dimensions[screen_resolution]=1920x1080&dimensions[pixel_ratio]=0.8999999761581421&dimensions[browser_resolution]=1117x485&dimensions[tz_seconds]=-28800&dimensions[timestamp]=1615229182225&&dimensions[request_id]=B180%3A06B7%3A301C0C3%3A3FC6A9B%3A604670FC&dimensions[visitor_id]=5311538025956241678&dimensions[region_edge]=iad&dimensions[region_render]=iad&&measures[performance_timing]=1-307-128-1709-1157-1155-1105-868-128-31-3--1709-0---307-947-852-214--&&dimensions[actor_id]=73083772&dimensions[actor_login]=polygonnedpotato&dimensions[actor_hash]=93ec06d6b1e4eddf4768b7fc37dc0d769226b41098a93be9f7323543e787276b&dimensions[cid]=1236688817.1612312846$image,important
 lo.cesdk12.org##.separator
+geohack.toolforge.org##.geoservices.plainlinks.mobile-linearize p
+www.google.com##.unknown_loc.yLngu
+www.google.com##.iblpc
+www.google.com##.FqnKTc
+winaero.com##p:nth-of-type(2)
+winaero.com##.custom-html-widget.textwidget > p
 !schooljunk
 classroom.google.com##.birdiew-activator
 classroom.google.com##dji-word-bank
@@ -237,6 +261,10 @@ www.justmote.me##.cookieConsent
 w.soundcloud.com##.sc-background-light.cookiePolicy
 www.colorpilot.com###eu-cookie-bar
 duino4projects.com###cookie-law-info-bar
+winaero.com###cookie-law-info-bar
+www.begindot.com##.elementor-sticky--effects.elementor-section--handles-inside.elementor-sticky--active.fadeIn.animated.elementor-sticky.elementor-widget-html.elementor-widget.animated-slow.elementor-element-3071b61.elementor-element > .elementor-widget-container
+www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-4a92bb6.elementor-element.elementor-top-section.elementor-section
+www.begindot.com##.dialog-lightbox-message.dialog-message
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
 www.wunderground.com##ad-wx-ws.ng-star-inserted
 www.wunderground.com##ad-wx-ws.ng-star-inserted
