@@ -4,13 +4,8 @@
 # Expires: 1 days
 # Homepage: github.com/polygonnedpotato/smartblock/
 !ads
-blog.prepscholar.com##.row-number-7.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-custom_widget.widget-span.span12
-blog.prepscholar.com##.row-number-10.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-raw_html.widget-span.span12
-blog.prepscholar.com##.row-number-13.row-depth-1.row-fluid-wrapper
-blog.prepscholar.com##.post-body.section > .promobox
 ||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
 ||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
-asciiart.club##aside:nth-of-type(1)
 ||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
 ||doubleclick.net^$important
 ||bid.g.doubleclick.net^$important
@@ -26,9 +21,6 @@ asciiart.club##aside:nth-of-type(1)
 ||pagead2.googlesyndication.com^$important
 ||moatads.com^$important
 ||ads.msn.com^$important
-www.chromestory.com##.widget-area.ad-content
-www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
-www.pcsuggest.com##.entry-content > div
 ||adentifi.com^$important
 ||rtb.adentifi.com^$important
 ||adform.net^$important
@@ -40,12 +32,7 @@ www.pcsuggest.com##.entry-content > div
 ||cs.admanmedia.com^$important
 ||adnxs.com^$important
 ||apps.jeurissen.co/_/apps/dss.png$image
-apps.jeurissen.co##.cja-sqrimage--nolabel.cja-sqrimage
-apps.jeurissen.co##.cja-card.cja-btmimage
-attacomsian.com##.border-success.border-2.bg-green-25.card
-www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
 ||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
-www.w3schools.com##div.sidesection:nth-of-type(4)
 ||acdn.adnxs.com^$important
 ||ib.adnxs.com^$important
 ||m.adnxs.com^$important
@@ -94,39 +81,10 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||atc-edge.studybreakmedia.com^$important
 ||youborafds01.com^$important
 ||a-fds.youborafds01.com^$important
-crxextractor.com##.offer
-duino4projects.com##div.widget_text.widget:nth-of-type(6)
-duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(8)
-duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(3)
 ||duino4projects.com/wp-content/uploads/2020/03/412x52.jpg$image
-www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
-!anti-rickroll
-*##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=j8PxqgliIno"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=DLzxrzFCyOs"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=xfr64zoBTAQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="https://bit.ly/3scG9QD"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="https://drive.google.com/file/d/1QRmoNmvH7eqYoXPuuFGFqn-GON3l4d1K/view?usp=sharing"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=Tt7bzxurJ1I"]:before:style(content: "(Fake: Rickroll and Stickbug) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=lVnd36HU1io"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="/watch?v=7sK3AqFYAWQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="%2Fwatch%3Fv%3DdQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="%2Fwatch%3Fv%3DoHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="youtu.be/dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="youtu.be/oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="youtube-nocookie.com/embed/dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="youtube-nocookie.com/embed/oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href$="imgur.com/gallery/yed5Zfk"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-*##a[href*="imgur.com/yed5Zfk"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
-||youtube.com/watch?v=dQw4w9WgXcQ^
-||youtube.com/watch?v=oHg5SJYRHA0^
-||youtube.com./watch?v=dQw4w9WgXcQ^
-||youtube.com./watch?v=oHg5SJYRHA0^
-||youtu.be/dQw4w9WgXcQ^
-||youtu.be/oHg5SJYRHA0^
-||imgur.com/*yed5Zfk
+||adservice.google.com^$important
+||www.begindot.com/wp-content/uploads/2020/12/Kinsta-Ad.jpg$image
+||www.begindot.com/wp-content/uploads/20*/12/*g$image
 !badhost
 ||www.youtube-nocookie.com/api/stats/^$important
 ||google-analytics.com^$important
@@ -139,117 +97,27 @@ www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezm
 ||siteimproveanalytics.com^$important
 ||studybreakmedia.com^$important
 ||atc-edge.studybreakmedia.com^$important
+||app-measurement.com
+||\/\/app-measurement.com
+||metrics.icloud.com
+||logfiles.zoom.us
+||crashlyticsreports-pa.googleapis.com
+||pinpoint.us-east-1.amazonaws.com
+||api2.branch.io
+||cstat.apple.com
+||logfiles.zoom.us
+||crashlyticsreports-pa.googleapis.com
+||pinpoint.us-east-1.amazonaws.com
+||api2.branch.io
+||cstat.apple.com
 !news
-www.oregonlive.com##.sidebar
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(1)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(10)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(16)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(23)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(33)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(38)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(48)
-www.oregonlive.com##.subscriberExclusive--oregonlive.subscriberExclusive--article.subscriberExclusive
-www.oregonlive.com##.advToprail__right-corner--subscribe
-www.oregonlive.com##.alert-bar--news-promo.alert-bar
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(11)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(41)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(45)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(51)
-www.oregonlive.com##li.advtoprail__mainmenu-menuitem.advtoprail__dropdown-menuitem:nth-of-type(14)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(44)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(47)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(54)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(21)
-www.oregonlive.com##div.InContent_Center_Background:nth-of-type(2)
-www.oregonlive.com##.InContent_Center_Padding
 ||nypost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-small.png$image
-www.theguardian.com###reader-revenue-links-header
-www.theguardian.com##.css-1lactnp
 !nation-states
-www.nationstates.net###\32 1661895593box
-www.nationstates.net###\32 1661895620box
-www.nationstates.net###\32 1661791338box
-www.nationstates.net###\32 1661895629box
-www.nationstates.net###\32 1661791341box
-www.nationstates.net###\32 1661895599box
-www.nationstates.net###\32 1661895623box
-www.nationstates.net###\32 1661895602box
-www.nationstates.net###\32 1661895605box
-www.nationstates.net###\32 1661792994box
-www.nationstates.net###\32 1661895626box
-www.nationstates.net###\32 1661895611box
-www.nationstates.net###\32 1661895608box
-www.nationstates.net##.nonregular-content
-www.nationstates.net###maxad
-www.nationstates.net###removead
-www.nationstates.net###createdby10
-www.nationstates.net###foot
-www.nationstates.net###paneladbox
 ||www.google-analytics.com/analytics.js$script,domain=nationstates.net
-forum.nationstates.net###headeradbox
-forum.nationstates.net###footeradbox
-forum.nationstates.net###sidebaradbox
-forum.nationstates.net###createdby9
-forum.nationstates.net##p:nth-of-type(4)
 ||www.google-analytics.com/analytics.js$script,domain=forum.nationstates.net
 !fragments
-docs.google.com##.freebirdFormviewerViewFooterPageBreak.freebirdFormviewerViewFooterImageContainer
-www.akc.org##.is-visible.headroom--not-top.headroom--not-bottom.social-share
-docs.google.com##.gb_fb.gb_jb
-docs.google.com##.companion-app-switcher-separator
-forecast.weather.gov##.addthis_separator
-docs.google.com##.docs-butterbar-wrap
-internetbankroll.com##body > div:nth-of-type(2)
-internetbankroll.com##.footer-sml-layout-1.ast-small-footer
-www.neverware.com###block-yui_3_17_2_1_1593282462377_12267
-docs.google.com##.goog-inline-block.goog-toolbar-separator
 ||www.google.com/images/cleardot.gif$image,important
-account.microsoft.com##.divider-89
-www.text2speech.org###wrap > .gc-wrap
 ||mobile.weather.gov/images/blank.png$image,important
 ||collector.githubapp.com/github/page_view?dimensions[page]=https%3A%2F%2Fgithub.com%2F&dimensions[title]=GitHub&dimensions[referrer]=&dimensions[user_agent]=Mozilla%2F5.0%20(X11%3B%20CrOS%20x86_64%2013597.66.0)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.90%20Safari%2F537.36&dimensions[screen_resolution]=1920x1080&dimensions[pixel_ratio]=0.8999999761581421&dimensions[browser_resolution]=1117x485&dimensions[tz_seconds]=-28800&dimensions[timestamp]=1615229182225&&dimensions[request_id]=B180%3A06B7%3A301C0C3%3A3FC6A9B%3A604670FC&dimensions[visitor_id]=5311538025956241678&dimensions[region_edge]=iad&dimensions[region_render]=iad&&measures[performance_timing]=1-307-128-1709-1157-1155-1105-868-128-31-3--1709-0---307-947-852-214--&&dimensions[actor_id]=73083772&dimensions[actor_login]=polygonnedpotato&dimensions[actor_hash]=93ec06d6b1e4eddf4768b7fc37dc0d769226b41098a93be9f7323543e787276b&dimensions[cid]=1236688817.1612312846$image,important
-lo.cesdk12.org##.separator
 !schooljunk
-classroom.google.com##.birdiew-activator
-classroom.google.com##dji-word-bank
-classroom.google.com###__dji_sru_main_container
-classroom.google.com##dji-cowriter
-classroom.google.com###gtx-trans
-classroom.google.com###ow25 > .K2mXPb.I12f0b.WzwrXb.JRtysb.U26fgb
-classroom.google.com##.gb_ma.gb_2a.gb_l.gb_F.gb_1a > div:nth-of-type(1)
-classroom.google.com##.gb_fb.gb_jb
-docs.google.com##.birdiew-activator
-docs.google.com##dji-apps-actions
-docs.google.com##.mote-slides-container
-docs.google.com##.mote-activator-container
-docs.google.com##.gb_5a.gb_6a
-meet.google.com##.tray-button
-meet.google.com##.tray-inner
-repl.it##.teams-for-education-module.jsx-4091627692
-replit.com##.teams-for-education-module.jsx-1404246044
 ||ifajfiofeifbbhbionejdliodenmecna.chromiumapp.org^$subdocument,domain=donjohnston.net
-!shutup
-www.justmote.me##.cookieConsent
-w.soundcloud.com##.sc-background-light.cookiePolicy
-www.colorpilot.com###eu-cookie-bar
-duino4projects.com###cookie-law-info-bar
-repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
-www.wunderground.com##ad-wx-ws.ng-star-inserted
-www.wunderground.com##ad-wx-ws.ng-star-inserted
-www.youtube.com##.ytd-rich-metadata-renderer.style-scope.yt-simple-endpoint
-www.youtube.com##ytd-badge-supported-renderer.ytd-video-primary-info-renderer.style-scope > .ytd-badge-supported-renderer.style-scope.badge-style-type-simple.badge > span.ytd-badge-supported-renderer.style-scope
-thumbsdb.herokuapp.com##iframe
-support.google.com##.info-bar-container
-bitly.com###wow-modal-overlay-2
-getpocket.com##.grecaptcha-badge
-github.com##.p-4.mb-4.rounded-2.position-relative.js-notice
-www.neverware.com##.sqs-announcement-bar-text
-www.neverware.com###announcement-bar-text-inner-id > p
-www.neverware.com##.sqs-announcement-bar-url
-www.neverware.com##.sqs-announcement-bar-close
-replit.com##div.jsx-2747485316:nth-of-type(1) > .jsx-3806357321
-en.wikipedia.org##.compact-ambox.ambox-multiple_issues.ambox-content.ambox.metadata.plainlinks.box-Multiple_issues
-dotnet.microsoft.com##.site-banners
-en.wikipedia.org###footer-copyrightico
-en.wikipedia.org###footer-poweredbyico
-internetbankroll.com##.wp_subscribe.widget
