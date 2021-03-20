@@ -109,6 +109,7 @@ www.systemtek.co.uk##.clearfix.jetpack_subscription_widget.widget_blog_subscript
 winaero.com##.gadsens-ad
 winaero.com###dfsfsdfs-asdasd-2
 winaero.com###adv-container
+||gstaticadssl.l.google.com
 !anti-rickroll
 *##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
