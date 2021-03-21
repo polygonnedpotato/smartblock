@@ -85,7 +85,6 @@
 ||adservice.google.com
 ||www.begindot.com/wp-content/uploads/2020/12/Kinsta-Ad.jpg$image
 ||www.begindot.com/wp-content/uploads/20*/12/*g$image
-||gstaticadssl.l.google.com
 !badhost
 ||www.youtube-nocookie.com/api/stats/
 ||google-analytics.com
