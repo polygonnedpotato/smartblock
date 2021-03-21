@@ -28,3 +28,4 @@
 ||pinpoint.us-east-1.amazonaws.com
 ||api2.branch.io
 ||cstat.apple.com
+||crashlytics2.l.google.com
