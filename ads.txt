@@ -113,4 +113,3 @@ winaero.com###adv-container
 www.begindot.com##.fadeIn.animated.elementor-sticky.elementor-widget-html.elementor-widget.animated-slow.elementor-element-3071b61.elementor-element > .elementor-widget-container
 www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-33c4213.elementor-element.elementor-top-section.elementor-section
 www.begindot.com##.elementor-hidden-phone.elementor-hidden-tablet.elementor-element-17d256c.elementor-element.elementor-top-column.elementor-col-33.elementor-column > .elementor-element-populated.elementor-column-wrap
-||gstaticadssl.l.google.com
