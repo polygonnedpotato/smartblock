@@ -1,6 +1,6 @@
 # Title: 🛡️ SmartBlock
 # Description: SmartBlock for Blokada
-# Updated: Friday 12, March 2021
+# Updated: Wednesday 24, March 2021
 # Expires: 1 days
 # Homepage: github.com/polygonnedpotato/smartblock/
 !ads
