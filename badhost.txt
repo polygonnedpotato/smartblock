@@ -29,3 +29,6 @@
 ||api2.branch.io
 ||cstat.apple.com
 ||crashlytics2.l.google.com
+||73.80.108.96.in-addr.arpa
+||53.60.120.96.in-addr.arpa
+||1.0.0.10.in-addr.arpa
