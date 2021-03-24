@@ -32,3 +32,17 @@
 ||73.80.108.96.in-addr.arpa
 ||53.60.120.96.in-addr.arpa
 ||1.0.0.10.in-addr.arpa
+||70.67.253.172.in-addr.arpa
+||111.50.239.216.in-addr.arpa
+||65.243.125.74.in-addr.arpa
+||34.225.250.142.in-addr.arpa
+||82.37.125.74.in-addr.arpa
+||69.251.85.209.in-addr.arpa
+||82.233.14.72.in-addr.arpa
+||10.209.250.142.in-addr.arpa
+||195.243.125.74.in-addr.arpa
+||7.227.170.108.in-addr.arpa
+||analytics.ff.avast.com
+||stats.redditmedia.com
+||graph.facebook.com
+||ae-us-aedapi.samsunghealth.com
