@@ -283,6 +283,7 @@ winaero.com###cookie-law-info-bar
 www.begindot.com##.elementor-sticky--effects.elementor-section--handles-inside.elementor-sticky--active.fadeIn.animated.elementor-sticky.elementor-widget-html.elementor-widget.animated-slow.elementor-element-3071b61.elementor-element > .elementor-widget-container
 www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-4a92bb6.elementor-element.elementor-top-section.elementor-section
 www.begindot.com##.dialog-lightbox-message.dialog-message
+||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
 www.wunderground.com##ad-wx-ws.ng-star-inserted
 www.wunderground.com##ad-wx-ws.ng-star-inserted
