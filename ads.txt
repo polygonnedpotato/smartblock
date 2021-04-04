@@ -4,31 +4,52 @@
 ! Description: Generic Ad filter
 ! Homepage: https://github.com/polygonnedpotato/smartblock
 
+apps.jeurissen.co##.cja-card.cja-btmimage
+apps.jeurissen.co##.cja-sqrimage--nolabel.cja-sqrimage
+asciiart.club##aside:nth-of-type(1)
+attacomsian.com##.border-success.border-2.bg-green-25.card
+blog.prepscholar.com##.post-body.section > .promobox
 blog.prepscholar.com##.row-number-7.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-custom_widget.widget-span.span12
 blog.prepscholar.com##.row-number-10.row-depth-1.row-fluid-wrapper > .row-fluid > .widget-type-raw_html.widget-span.span12
 blog.prepscholar.com##.row-number-13.row-depth-1.row-fluid-wrapper
-blog.prepscholar.com##.post-body.section > .promobox
+crxextractor.com##.offer
+duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(3)
+duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(8)
+duino4projects.com##div.widget_text.widget:nth-of-type(6)
+winaero.com##.gadsens-ad
+winaero.com###adv-container
+winaero.com###dfsfsdfs-asdasd-2
+www.begindot.com##.elementor-hidden-phone.elementor-hidden-tablet.elementor-element-17d256c.elementor-element.elementor-top-column.elementor-col-33.elementor-column > .elementor-element-populated.elementor-column-wrap
+www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-33c4213.elementor-element.elementor-top-section.elementor-section
+www.begindot.com##.fadeIn.animated.elementor-sticky.elementor-widget-html.elementor-widget.animated-slow.elementor-element-3071b61.elementor-element > .elementor-widget-container
+www.chromestory.com##.widget-area.ad-content
+www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
+www.edureka.co##.batch-table-widget-link.cta-ads-block-inline
+www.edureka.co##.curriculum-link.cta-ads-block-inline
+www.edureka.co##.cr-group-tr-cs-carousal
+www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
+www.pcsuggest.com##.entry-content > div
+www.systemtek.co.uk##.clearfix.jetpack_subscription_widget.widget_blog_subscription.widget
+www.systemtek.co.uk##.tg-footer-main-widget
+www.systemtek.co.uk###custom_html-16
+www.systemtek.co.uk###custom_html-2
+www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
+www.w3schools.com##div.sidesection:nth-of-type(4)
+||adservice.google.com^$important
 ||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
-||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
-asciiart.club##aside:nth-of-type(1)
-||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
-||doubleclick.net^$important
-||bid.g.doubleclick.net^$important
 ||cm.g.doubleclick.net^$important
+||bid.g.doubleclick.net^$important
+||doubleclick.net^$important
 ||static.doubleclick.net^$important
 ||googleads.g.doubleclick.net^$important
 ||googleads4.g.doubleclick.net^$important
 ||pubads.g.doubleclick.net^$important
 ||securepubads.g.doubleclick.net^$important
-||adservice.google.com^$important
 ||googleadservices.com^$important
 ||partner.googleadservices.com^$important
 ||pagead2.googlesyndication.com^$important
 ||moatads.com^$important
 ||ads.msn.com^$important
-www.chromestory.com##.widget-area.ad-content
-www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
-www.pcsuggest.com##.entry-content > div
 ||adentifi.com^$important
 ||rtb.adentifi.com^$important
 ||adform.net^$important
@@ -40,12 +61,7 @@ www.pcsuggest.com##.entry-content > div
 ||cs.admanmedia.com^$important
 ||adnxs.com^$important
 ||apps.jeurissen.co/_/apps/dss.png$image
-apps.jeurissen.co##.cja-sqrimage--nolabel.cja-sqrimage
-apps.jeurissen.co##.cja-card.cja-btmimage
-attacomsian.com##.border-success.border-2.bg-green-25.card
-www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
 ||www.jetbrains.com/_assets/ui/banners/idea-conf/banner_1200x200.578cd36c7af458fad5047f58438f7dac.png$image
-www.w3schools.com##div.sidesection:nth-of-type(4)
 ||acdn.adnxs.com^$important
 ||ib.adnxs.com^$important
 ||m.adnxs.com^$important
@@ -94,26 +110,8 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||atc-edge.studybreakmedia.com^$important
 ||youborafds01.com^$important
 ||a-fds.youborafds01.com^$important
-crxextractor.com##.offer
-duino4projects.com##div.widget_text.widget:nth-of-type(6)
-duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(8)
-duino4projects.com##div.widget_custom_html.widget.widget_text:nth-of-type(3)
 ||duino4projects.com/wp-content/uploads/2020/03/412x52.jpg$image
-www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
-www.systemtek.co.uk##.tg-footer-main-widget
-www.systemtek.co.uk###custom_html-16
-www.systemtek.co.uk###custom_html-2
-www.systemtek.co.uk##.clearfix.jetpack_subscription_widget.widget_blog_subscription.widget
 ||adservice.google.com^$important
-winaero.com##.gadsens-ad
-winaero.com###dfsfsdfs-asdasd-2
-winaero.com###adv-container
-||www.begindot.com/wp-content/uploads/2020/12/Kinsta-Ad.jpg$image
 ||www.begindot.com/wp-content/uploads/20*/12/*g$image
-www.begindot.com##.fadeIn.animated.elementor-sticky.elementor-widget-html.elementor-widget.animated-slow.elementor-element-3071b61.elementor-element > .elementor-widget-container
-www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-33c4213.elementor-element.elementor-top-section.elementor-section
-www.begindot.com##.elementor-hidden-phone.elementor-hidden-tablet.elementor-element-17d256c.elementor-element.elementor-top-column.elementor-col-33.elementor-column > .elementor-element-populated.elementor-column-wrap
 ||d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/img/new*g$image
-www.edureka.co##.batch-table-widget-link.cta-ads-block-inline
-www.edureka.co##.cr-group-tr-cs-carousal
-www.edureka.co##.curriculum-link.cta-ads-block-inline
+
