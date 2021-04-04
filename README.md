@@ -9,7 +9,7 @@ things to note:
 -- you can help by giving suggestions. use the issues page for suggestions  
 
 # KEY
-this is used to show the status of filter lists.
-If the title includes 🛡️, then it is currently safe to use.
-If the title includes ⚠️, then some filters may be unsafe or dangerous and should be used at your own risk.
-If the title includes ⛔, then it is not safe to use. If any blocklist shows this, please turn it off untill an update changes the icon.
+This key is used to show the current status of the filter lists.  
+If the title includes 🛡️, then it is currently safe to use.  
+If the title includes ⚠️, then some filters may be unsafe or dangerous and should be used at your own risk.  
+If the title includes ⛔, then it is not safe to use. If any blocklist shows this, please turn it off untill an update changes the icon.  
