@@ -1,7 +1,7 @@
 [AdBlock Plus 3.4]
 ! Title: 🛡️ SmartBlock
 ! Description: SmartBlock is an AdBlocking filter service that blocks as for your browsing experence. (You are using the Ultimate version, which is updated whenever I can.)
-! Updated: Friday 19, March 2021
+! Updated: Sunday 4, April 2021
 ! Expires: 7 days
 ! Homepage: github.com/polygonnedpotato/smartblock/
 !ads
