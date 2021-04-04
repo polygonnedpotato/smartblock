@@ -1,4 +1,4 @@
-!Title:SmartBlock unsorted
+!Title:⚠️ SmartBlock Unsorted
 !Description: unsorted filters to ba added soon. Filters are placed here when i forgot what they did or what they were. Please file an issue if you know what they go to.
 !expires: 1 day
 
