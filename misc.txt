@@ -2,5 +2,7 @@
 !Description: unsorted filters to ba added soon. Filters are placed here when i forgot what they did or what they were. Please file an issue if you know what they go to.
 !expires: 1 day
 
-!Source:attacomsian.com
+!Source: attacomsian.com
 attacomsian.com##.border-success.border-2.bg-green-25.card
+!Source: Google Docs(docs.google.com)
+docs.google.com##.modal-dialog-bg
