@@ -13,6 +13,7 @@ www.begindot.com##.elementor-sticky--effects.elementor-section--handles-inside.e
 www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-4a92bb6.elementor-element.elementor-top-section.elementor-section
 www.begindot.com##.dialog-lightbox-message.dialog-message
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 
 ! Useless / Annoying Banners
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
@@ -32,6 +33,7 @@ www.neverware.com##.sqs-announcement-bar-close
 replit.com##div.jsx-2747485316:nth-of-type(1) > .jsx-3806357321
 en.wikipedia.org##.compact-ambox.ambox-multiple_issues.ambox-content.ambox.metadata.plainlinks.box-Multiple_issues
 dotnet.microsoft.com##.site-banners
+en.wikipedia.org##.ambox-Refimprove.ambox-content.ambox.metadata.plainlinks.box-More_citations_needed
 
 ! No dumb buttons!
 ||www.w3.org/Icons/valid-html401$image
