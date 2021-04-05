@@ -46,3 +46,4 @@
 ||stats.redditmedia.com
 ||graph.facebook.com
 ||ae-us-aedapi.samsunghealth.com
+||video.google.com/api/stats/
