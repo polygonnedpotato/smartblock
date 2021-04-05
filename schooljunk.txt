@@ -1,5 +1,5 @@
 ! Title: 🛡️ School Junk
-! Version: Feb2021
+! Version: Apr2021
 ! Expires: 1 days
 ! Description: Get rid of useless school related popups / elements
 
@@ -19,6 +19,7 @@ docs.google.com##dji-apps-actions
 docs.google.com##.mote-slides-container
 docs.google.com##.mote-activator-container
 docs.google.com##.gb_5a.gb_6a
+docs.google.com##.goog-inline-block.docs-save-indicator-container.docs-titlebar-badge-container
 
 ! Google Meet
 meet.google.com##.tray-button
