@@ -2,7 +2,10 @@
 !Description: unsorted filters to ba added soon. Filters are placed here when i forgot what they did or what they were. Please file an issue if you know what they go to.
 !expires: 1 day
 
-!Source: attacomsian.com
-attacomsian.com##.border-success.border-2.bg-green-25.card
 !Source: Google Docs(docs.google.com)
 docs.google.com##.modal-dialog-bg
+!Source: www.thekitchn.com(https://www.thekitchn.com/how-to-make-noknead-bread-home-109343)
+www.thekitchn.com##.PostBundle__above.jsx-1503450508
+www.thekitchn.com##.PostBundle__below.jsx-1503450508
+!Source: www.ck12.org(https://www.ck12.org/biology/bacteria-characteristics/lesson/Bacteria-Characteristics-MS-LS/)
+www.ck12.org##.practice-badge-wrapper
