@@ -124,7 +124,6 @@
 ||7.227.170.108.in-addr.arpa
 ||analytics.ff.avast.com
 ||stats.redditmedia.com
-||graph.facebook.com
 ||ae-us-aedapi.samsunghealth.com
 !news
 ||nypost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-small.png$image
