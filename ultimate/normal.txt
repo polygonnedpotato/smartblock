@@ -183,7 +183,6 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||7.227.170.108.in-addr.arpa
 ||analytics.ff.avast.com
 ||stats.redditmedia.com
-||graph.facebook.com
 ||ae-us-aedapi.samsunghealth.com
 !news
 www.oregonlive.com##.sidebar
