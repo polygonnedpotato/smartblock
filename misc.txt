@@ -9,3 +9,10 @@ www.thekitchn.com##.PostBundle__above.jsx-1503450508
 www.thekitchn.com##.PostBundle__below.jsx-1503450508
 !Source: www.ck12.org(https://www.ck12.org/biology/bacteria-characteristics/lesson/Bacteria-Characteristics-MS-LS/)
 www.ck12.org##.practice-badge-wrapper
+!Source: Wikipedia
+||en.wikipedia.org/static/images/footer/wikimedia-button*.png$image
+||en.wikipedia.org/static/images/footer/poweredby_mediawiki_*.png$image
+en.wikipedia.org##.ambox-Update.ambox-content.ambox.metadata.plainlinks.box-Update
+en.wikipedia.org##.ambox-Refimprove.ambox-content.ambox.metadata.plainlinks.box-More_citations_needed
+!Source: www.adminbooster.com(https://www.adminbooster.com/tool/data_uri)
+||app.qualified.com/w/1/BWozwGeqmnGfQMrb/messenger$subdocument
