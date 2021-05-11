@@ -1,9 +1,8 @@
 ! Title: 🛡️ Ads
-! Version: Apr2021
+! Version: May2021
 ! Expires: 1 days
 ! Description: Generic Ad filter
 ! Homepage: https://github.com/polygonnedpotato/smartblock
-
 apps.jeurissen.co##.cja-card.cja-btmimage
 apps.jeurissen.co##.cja-sqrimage--nolabel.cja-sqrimage
 asciiart.club##aside:nth-of-type(1)
@@ -22,6 +21,9 @@ winaero.com###dfsfsdfs-asdasd-2
 www.begindot.com##.elementor-hidden-phone.elementor-hidden-tablet.elementor-element-17d256c.elementor-element.elementor-top-column.elementor-col-33.elementor-column > .elementor-element-populated.elementor-column-wrap
 www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-33c4213.elementor-element.elementor-top-section.elementor-section
 www.begindot.com##.fadeIn.animated.elementor-sticky.elementor-widget-html.elementor-widget.animated-slow.elementor-element-3071b61.elementor-element > .elementor-widget-container
+www.britannica.com##.center-xs.catfish
+www.britannica.com##.inline-ad
+www.britannica.com##.template-desktop.md-article-container > .content.article-content > .toolbar-ad.pl728
 www.chromestory.com##.widget-area.ad-content
 www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
 www.edureka.co##.batch-table-widget-link.cta-ads-block-inline
@@ -39,6 +41,7 @@ www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezm
 www.w3schools.com##div.sidesection:nth-of-type(4)
 ||adservice.google.com^$important
 ||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
+||cdn.britannica.com/marketing/300x90%20On-site%20Climate%20Action%20ads-04.png$image
 ||cm.g.doubleclick.net^$important
 ||bid.g.doubleclick.net^$important
 ||doubleclick.net^$important
