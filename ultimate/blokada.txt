@@ -6,6 +6,7 @@
 !ads
 ||adservice.google.com^$important
 ||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
+||cdn.britannica.com/marketing/300x90%20On-site%20Climate%20Action%20ads-04.png$image
 ||cm.g.doubleclick.net^$important
 ||bid.g.doubleclick.net^$important
 ||doubleclick.net^$important
@@ -133,7 +134,6 @@
 !fragments
 ||www.google.com/images/cleardot.gif$image,important
 ||mobile.weather.gov/images/blank.png$image,important
-||collector.githubapp.com/github/page_view?dimensions[page]=https%3A%2F%2Fgithub.com%2F&dimensions[title]=GitHub&dimensions[referrer]=&dimensions[user_agent]=Mozilla%2F5.0%20(X11%3B%20CrOS%20x86_64%2013597.66.0)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F88.0.4324.90%20Safari%2F537.36&dimensions[screen_resolution]=1920x1080&dimensions[pixel_ratio]=0.8999999761581421&dimensions[browser_resolution]=1117x485&dimensions[tz_seconds]=-28800&dimensions[timestamp]=1615229182225&&dimensions[request_id]=B180%3A06B7%3A301C0C3%3A3FC6A9B%3A604670FC&dimensions[visitor_id]=5311538025956241678&dimensions[region_edge]=iad&dimensions[region_render]=iad&&measures[performance_timing]=1-307-128-1709-1157-1155-1105-868-128-31-3--1709-0---307-947-852-214--&&dimensions[actor_id]=73083772&dimensions[actor_login]=polygonnedpotato&dimensions[actor_hash]=93ec06d6b1e4eddf4768b7fc37dc0d769226b41098a93be9f7323543e787276b&dimensions[cid]=1236688817.1612312846$image,important
 !schooljunk
 ||ifajfiofeifbbhbionejdliodenmecna.chromiumapp.org^$subdocument,domain=donjohnston.net
 !shutup
