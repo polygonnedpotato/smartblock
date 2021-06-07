@@ -16,3 +16,5 @@ en.wikipedia.org##.ambox-Update.ambox-content.ambox.metadata.plainlinks.box-Upda
 en.wikipedia.org##.ambox-Refimprove.ambox-content.ambox.metadata.plainlinks.box-More_citations_needed
 !Source: www.adminbooster.com(https://www.adminbooster.com/tool/data_uri)
 ||app.qualified.com/w/1/BWozwGeqmnGfQMrb/messenger$subdocument
+!Source: idk
+orteil.dashnet.org###smallSupport
