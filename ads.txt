@@ -1,5 +1,5 @@
 ! Title: 🛡️ Ads
-! Version: May2021
+! Version: June2021
 ! Expires: 1 days
 ! Description: Generic Ad filter
 ! Homepage: https://github.com/polygonnedpotato/smartblock
@@ -29,6 +29,9 @@ www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
 www.edureka.co##.batch-table-widget-link.cta-ads-block-inline
 www.edureka.co##.curriculum-link.cta-ads-block-inline
 www.edureka.co##.cr-group-tr-cs-carousal
+www.mathway.com##.ad-video
+www.mathway.com##.ad-scroll
+www.mathway.com###static-ad-right-alt
 www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
 www.pbs.org##.ad-sidebar.article-aside
 www.pbs.org##.ad-sidebar.article-aside-outer
@@ -73,7 +76,7 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||secure.adnxs.com^$important
 ||adsafeprotected.com^$important
 ||static.adsafeprotected.com^$important
-||adsrvr.org^$important
+||adsrvr.org
 ||match.adsrvr.org^$important
 ||adsymptotic.com^$important
 ||p.adsymptotic.com^$important
@@ -119,3 +122,4 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||adservice.google.com
 ||www.begindot.com/wp-content/uploads/20*/12/*g$image
 ||d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/img/new*g$image
+||www.google.com/ads
