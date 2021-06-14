@@ -1,9 +1,8 @@
-# Title: 🛡️ SmartBlock
-# Description: SmartBlock for Blokada
-# Updated: Sunday 4, April 2021
-# Expires: 1 days
-# Homepage: github.com/polygonnedpotato/smartblock/
-!ads
+#Title:🛡️ SmartBlock
+#Description:SmartBlock for Blokada
+#Updated:Monday 14, June 2021
+#Expires:7 days
+#Homepage:github.com/polygonnedpotato/smartblock/
 ||adservice.google.com^$important
 ||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
 ||cdn.britannica.com/marketing/300x90%20On-site%20Climate%20Action%20ads-04.png$image
@@ -38,7 +37,7 @@
 ||secure.adnxs.com^$important
 ||adsafeprotected.com^$important
 ||static.adsafeprotected.com^$important
-||adsrvr.org^$important
+||adsrvr.org
 ||match.adsrvr.org^$important
 ||adsymptotic.com^$important
 ||p.adsymptotic.com^$important
@@ -59,32 +58,32 @@
 ||static.criteo.net^$important
 ||web.hb.ad.cpe.dotomi.com^$important
 ||foresee.com^$important
-||gateway.foresee.com^$important
-||googletagmanager.com^$important
-||www.googletagmanager.com^$important
-||googletagservices.com^$important
-||www.googletagservices.com^$important
-||z.moatads.com^$important
-||pub.network^$important
-||a.pub.network^$important
-||publift.com^$important
-||cdn.publift.com^$important
-||pubmatic.com^$important
-||ads.pubmatic.com^$important
-||rubiconproject.com^$important
-||ads.rubiconproject.com^$important
-||scorecardresearch.com^$important
-||sb.scorecardresearch.com^$important
-||siteimproveanalytics.com^$important
-||studybreakmedia.com^$important
-||atc-edge.studybreakmedia.com^$important
-||youborafds01.com^$important
-||a-fds.youborafds01.com^$important
+||gateway.foresee.com
+||googletagmanager.com
+||www.googletagmanager.com
+||googletagservices.com
+||www.googletagservices.com
+||z.moatads.com
+||pub.network
+||a.pub.network
+||publift.com
+||cdn.publift.com
+||pubmatic.com
+||ads.pubmatic.com
+||rubiconproject.com
+||ads.rubiconproject.com
+||scorecardresearch.com
+||sb.scorecardresearch.com
+||siteimproveanalytics.com
+||studybreakmedia.com
+||atc-edge.studybreakmedia.com
+||youborafds01.com
+||a-fds.youborafds01.com
 ||duino4projects.com/wp-content/uploads/2020/03/412x52.jpg$image
-||adservice.google.com^$important
+||adservice.google.com
 ||www.begindot.com/wp-content/uploads/20*/12/*g$image
 ||d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/img/new*g$image
-!badhost
+||www.google.com/ads
 ||www.youtube-nocookie.com/api/stats/^$important
 ||google-analytics.com^$important
 ||ssl.google-analitics.com^$important
@@ -126,20 +125,26 @@
 ||analytics.ff.avast.com
 ||stats.redditmedia.com
 ||ae-us-aedapi.samsunghealth.com
-!news
+||video.google.com/api/stats/
+||classroom.google.com/logImpressions
+||play.google.com/log$important
 ||nypost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-small.png$image
-!nation-states
-||www.google-analytics.com/analytics.js$script,domain=nationstates.net
-||www.google-analytics.com/analytics.js$script,domain=forum.nationstates.net
-!fragments
-||www.google.com/images/cleardot.gif$image,important
 ||mobile.weather.gov/images/blank.png$image,important
-!schooljunk
+||www.google.com/images/cleardot.gif$image,important
+||https://a57.foxnews.com/static.foxnews.com/static/orion/img/228/128/clear.gif$image
+||en.wikipedia.org/static/images/footer/wikimedia-button*.png$image
+||en.wikipedia.org/static/images/footer/poweredby_mediawiki_*.png$image
+||app.qualified.com/w/1/BWozwGeqmnGfQMrb/messenger$subdocument
 ||ifajfiofeifbbhbionejdliodenmecna.chromiumapp.org^$subdocument,domain=donjohnston.net
-!shutup
+||lh5.googleusercontent.com/YVGZjLKT9pEZY5n4WdCozzlvmgRkpsNLB3QKN1nzOkJxhzrV14eTMvrr6JhBpMRhX9vJrsJqiVdVwi1CzbKGIEM2pkWZce0vceVvRmvmvhB-hDWefJIkjcCd6_z4MNDlOhD65AuAP5w$image,important
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*
 ||www.w3.org/Icons/valid-html401$image
 ||www.w3.org/Icons/valid-html401$image
 ||www.w3.org/Icons/valid-css2$image
 ||www.hashemall.com/notformyfault.jpg$image
 ||punto-informatico.it/_box/dati/piaciuto/award-pi-anim-eng.gif$image
+||sox.sourceforge.net/paypal.gif$image
+||images.sourceforge.net/images/project-support.jpg$image
+||sflogo.sourceforge.net/sflogo.php$image
+||www.w3.org/Icons/valid-xhtml10$image
+||jigsaw.w3.org/css-validator/images/vcss$image
