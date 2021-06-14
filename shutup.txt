@@ -41,6 +41,11 @@ en.wikipedia.org##.ambox-Refimprove.ambox-content.ambox.metadata.plainlinks.box-
 ||www.w3.org/Icons/valid-css2$image
 ||www.hashemall.com/notformyfault.jpg$image
 ||punto-informatico.it/_box/dati/piaciuto/award-pi-anim-eng.gif$image
+||sox.sourceforge.net/paypal.gif$image
+||images.sourceforge.net/images/project-support.jpg$image
+||sflogo.sourceforge.net/sflogo.php$image
+||www.w3.org/Icons/valid-xhtml10$image
+||jigsaw.w3.org/css-validator/images/vcss$image
 
 ! SuBsCrIbE1!
 internetbankroll.com##.wp_subscribe.widget
