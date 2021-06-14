@@ -1,5 +1,5 @@
 ! Title: 🛡️ Web Fragments
-! Version: Mar2021
+! Version: Jun2021
 ! Expires: 1 days
 ! Description: Cleans up fragments of useless elements, saving bandwidth, data, storage, and CPU
 
