@@ -4,7 +4,6 @@
 ! Updated: Sunday 4, April 2021
 ! Expires: 7 days
 ! Homepage: github.com/polygonnedpotato/smartblock/
-!ads
 apps.jeurissen.co##.cja-card.cja-btmimage
 apps.jeurissen.co##.cja-sqrimage--nolabel.cja-sqrimage
 asciiart.club##aside:nth-of-type(1)
@@ -23,12 +22,20 @@ winaero.com###dfsfsdfs-asdasd-2
 www.begindot.com##.elementor-hidden-phone.elementor-hidden-tablet.elementor-element-17d256c.elementor-element.elementor-top-column.elementor-col-33.elementor-column > .elementor-element-populated.elementor-column-wrap
 www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-element-33c4213.elementor-element.elementor-top-section.elementor-section
 www.begindot.com##.fadeIn.animated.elementor-sticky.elementor-widget-html.elementor-widget.animated-slow.elementor-element-3071b61.elementor-element > .elementor-widget-container
+www.britannica.com##.center-xs.catfish
+www.britannica.com##.inline-ad
+www.britannica.com##.template-desktop.md-article-container > .content.article-content > .toolbar-ad.pl728
 www.chromestory.com##.widget-area.ad-content
 www.chromestory.com###custom_html-2 > .widget-wrap.widget_text
 www.edureka.co##.batch-table-widget-link.cta-ads-block-inline
 www.edureka.co##.curriculum-link.cta-ads-block-inline
 www.edureka.co##.cr-group-tr-cs-carousal
+www.mathway.com##.ad-video
+www.mathway.com##.ad-scroll
+www.mathway.com###static-ad-right-alt
 www.mozilla.org##.is-displayed.mzp-a-slide-in.hide-from-legacy-ie.mzp-t-dark.mzp-t-product-firefox.mzp-c-sticky-promo
+www.pbs.org##.ad-sidebar.article-aside
+www.pbs.org##.ad-sidebar.article-aside-outer
 www.pcsuggest.com##.entry-content > div
 www.systemtek.co.uk##.clearfix.jetpack_subscription_widget.widget_blog_subscription.widget
 www.systemtek.co.uk##.tg-footer-main-widget
@@ -38,6 +45,7 @@ www.ubuntupit.com##body > .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezm
 www.w3schools.com##div.sidesection:nth-of-type(4)
 ||adservice.google.com^$important
 ||asciiart.club/img/xnoblock.gif.pagespeed.ic.AFkYYv507J.png$image
+||cdn.britannica.com/marketing/300x90%20On-site%20Climate%20Action%20ads-04.png$image
 ||cm.g.doubleclick.net^$important
 ||bid.g.doubleclick.net^$important
 ||doubleclick.net^$important
@@ -69,7 +77,7 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||secure.adnxs.com^$important
 ||adsafeprotected.com^$important
 ||static.adsafeprotected.com^$important
-||adsrvr.org^$important
+||adsrvr.org
 ||match.adsrvr.org^$important
 ||adsymptotic.com^$important
 ||p.adsymptotic.com^$important
@@ -90,32 +98,34 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||static.criteo.net^$important
 ||web.hb.ad.cpe.dotomi.com^$important
 ||foresee.com^$important
-||gateway.foresee.com^$important
-||googletagmanager.com^$important
-||www.googletagmanager.com^$important
-||googletagservices.com^$important
-||www.googletagservices.com^$important
-||z.moatads.com^$important
-||pub.network^$important
-||a.pub.network^$important
-||publift.com^$important
-||cdn.publift.com^$important
-||pubmatic.com^$important
-||ads.pubmatic.com^$important
-||rubiconproject.com^$important
-||ads.rubiconproject.com^$important
-||scorecardresearch.com^$important
-||sb.scorecardresearch.com^$important
-||siteimproveanalytics.com^$important
-||studybreakmedia.com^$important
-||atc-edge.studybreakmedia.com^$important
-||youborafds01.com^$important
-||a-fds.youborafds01.com^$important
+||gateway.foresee.com
+||googletagmanager.com
+||www.googletagmanager.com
+||googletagservices.com
+||www.googletagservices.com
+||z.moatads.com
+||pub.network
+||a.pub.network
+||publift.com
+||cdn.publift.com
+||pubmatic.com
+||ads.pubmatic.com
+||rubiconproject.com
+||ads.rubiconproject.com
+||scorecardresearch.com
+||sb.scorecardresearch.com
+||siteimproveanalytics.com
+||studybreakmedia.com
+||atc-edge.studybreakmedia.com
+||youborafds01.com
+||a-fds.youborafds01.com
 ||duino4projects.com/wp-content/uploads/2020/03/412x52.jpg$image
-||adservice.google.com^$important
+||adservice.google.com
 ||www.begindot.com/wp-content/uploads/20*/12/*g$image
 ||d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/img/new*g$image
-!anti-rickroll
+||www.google.com/ads
+www.thoughtco.com##.not-sticky.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-flexible-leaderboard.mntl-leaderboard-header.has-right-label.leaderboard--header.comp
+www.thoughtco.com##.billboard-sticky.billboard1-sticky.right-rail__item.scads-to-load.comp
 *##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=uxIsiTo4VJo"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
 *##a[href*="/watch?v=oHg5SJYRHA0"]:before:style(content: "(Fake: Rickroll) " !important; color: #E6000D !important; visibility: visible)
@@ -142,7 +152,6 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||youtu.be/dQw4w9WgXcQ^
 ||youtu.be/oHg5SJYRHA0^
 ||imgur.com/*yed5Zfk
-!badhost
 ||www.youtube-nocookie.com/api/stats/^$important
 ||google-analytics.com^$important
 ||ssl.google-analitics.com^$important
@@ -184,7 +193,9 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||analytics.ff.avast.com
 ||stats.redditmedia.com
 ||ae-us-aedapi.samsunghealth.com
-!news
+||video.google.com/api/stats/
+||classroom.google.com/logImpressions
+||play.google.com/log$important
 www.oregonlive.com##.sidebar
 www.oregonlive.com##div.InContent_Center_Background:nth-of-type(1)
 www.oregonlive.com##div.InContent_Center_Background:nth-of-type(10)
@@ -210,7 +221,6 @@ www.oregonlive.com##.InContent_Center_Padding
 ||nypost.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-dark-small.png$image
 www.theguardian.com###reader-revenue-links-header
 www.theguardian.com##.css-1lactnp
-!nation-states
 www.nationstates.net###\32 1661895593box
 www.nationstates.net###\32 1661895620box
 www.nationstates.net###\32 1661791338box
@@ -230,14 +240,11 @@ www.nationstates.net###removead
 www.nationstates.net###createdby10
 www.nationstates.net###foot
 www.nationstates.net###paneladbox
-||www.google-analytics.com/analytics.js$script,domain=nationstates.net
 forum.nationstates.net###headeradbox
 forum.nationstates.net###footeradbox
 forum.nationstates.net###sidebaradbox
 forum.nationstates.net###createdby9
 forum.nationstates.net##p:nth-of-type(4)
-||www.google-analytics.com/analytics.js$script,domain=forum.nationstates.net
-!fragments
 docs.google.com##.freebirdFormviewerViewFooterPageBreak.freebirdFormviewerViewFooterImageContainer
 www.akc.org##.is-visible.headroom--not-top.headroom--not-bottom.social-share
 docs.google.com##.gb_fb.gb_jb
@@ -259,7 +266,18 @@ www.google.com##.iblpc
 www.google.com##.FqnKTc
 winaero.com##p:nth-of-type(2)
 winaero.com##.custom-html-widget.textwidget > p
-!schooljunk
+web.kamihq.com##.ng-scope.header-badges
+||https://a57.foxnews.com/static.foxnews.com/static/orion/img/228/128/clear.gif$image
+docs.google.com##.modal-dialog-bg
+www.thekitchn.com##.PostBundle__above.jsx-1503450508
+www.thekitchn.com##.PostBundle__below.jsx-1503450508
+www.ck12.org##.practice-badge-wrapper
+||en.wikipedia.org/static/images/footer/wikimedia-button*.png$image
+||en.wikipedia.org/static/images/footer/poweredby_mediawiki_*.png$image
+en.wikipedia.org##.ambox-Update.ambox-content.ambox.metadata.plainlinks.box-Update
+en.wikipedia.org##.ambox-Refimprove.ambox-content.ambox.metadata.plainlinks.box-More_citations_needed
+||app.qualified.com/w/1/BWozwGeqmnGfQMrb/messenger$subdocument
+orteil.dashnet.org###smallSupport
 classroom.google.com##.birdiew-activator
 classroom.google.com##dji-word-bank
 classroom.google.com###__dji_sru_main_container
@@ -273,12 +291,16 @@ docs.google.com##dji-apps-actions
 docs.google.com##.mote-slides-container
 docs.google.com##.mote-activator-container
 docs.google.com##.gb_5a.gb_6a
+docs.google.com##.goog-inline-block.docs-save-indicator-container.docs-titlebar-badge-container
 meet.google.com##.tray-button
 meet.google.com##.tray-inner
 repl.it##.teams-for-education-module.jsx-4091627692
-replit.com##.teams-for-education-module.jsx-1404246044
-||ifajfiofeifbbhbionejdliodenmecna.chromiumapp.org^$subdocument,domain=donjohnston.net
-!shutup
+replit.com##.teams-for-education-module.jsx-1404246044||ifajfiofeifbbhbionejdliodenmecna.chromiumapp.org^$subdocument,domain=donjohnston.net
+##__dji_sru_main_container
+##dji-wb-busy-state
+##dji-sru-busy-state
+##dji-sru-remove-distractions-iframe
+||lh5.googleusercontent.com/YVGZjLKT9pEZY5n4WdCozzlvmgRkpsNLB3QKN1nzOkJxhzrV14eTMvrr6JhBpMRhX9vJrsJqiVdVwi1CzbKGIEM2pkWZce0vceVvRmvmvhB-hDWefJIkjcCd6_z4MNDlOhD65AuAP5w$image,important
 www.justmote.me##.cookieConsent
 w.soundcloud.com##.sc-background-light.cookiePolicy
 www.colorpilot.com###eu-cookie-bar
@@ -288,6 +310,7 @@ www.begindot.com##.elementor-sticky--effects.elementor-section--handles-inside.e
 www.begindot.com##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-4a92bb6.elementor-element.elementor-top-section.elementor-section
 www.begindot.com##.dialog-lightbox-message.dialog-message
 ||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 repl.it##.dark.replit-ui-theme-root.root.jsx-1865331460
 www.wunderground.com##ad-wx-ws.ng-star-inserted
 www.wunderground.com##ad-wx-ws.ng-star-inserted
@@ -305,11 +328,17 @@ www.neverware.com##.sqs-announcement-bar-close
 replit.com##div.jsx-2747485316:nth-of-type(1) > .jsx-3806357321
 en.wikipedia.org##.compact-ambox.ambox-multiple_issues.ambox-content.ambox.metadata.plainlinks.box-Multiple_issues
 dotnet.microsoft.com##.site-banners
+en.wikipedia.org##.ambox-Refimprove.ambox-content.ambox.metadata.plainlinks.box-More_citations_needed
 ||www.w3.org/Icons/valid-html401$image
 ||www.w3.org/Icons/valid-html401$image
 ||www.w3.org/Icons/valid-css2$image
 ||www.hashemall.com/notformyfault.jpg$image
 ||punto-informatico.it/_box/dati/piaciuto/award-pi-anim-eng.gif$image
+||sox.sourceforge.net/paypal.gif$image
+||images.sourceforge.net/images/project-support.jpg$image
+||sflogo.sourceforge.net/sflogo.php$image
+||www.w3.org/Icons/valid-xhtml10$image
+||jigsaw.w3.org/css-validator/images/vcss$image
 internetbankroll.com##.wp_subscribe.widget
 www.edureka.co##.in.free-webinar-reg-box
 www.edureka.co##.slideup.newsletter-section
