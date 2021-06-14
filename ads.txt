@@ -123,3 +123,5 @@ www.w3schools.com##div.sidesection:nth-of-type(4)
 ||www.begindot.com/wp-content/uploads/20*/12/*g$image
 ||d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/themes/edu-new/img/new*g$image
 ||www.google.com/ads
+www.thoughtco.com##.not-sticky.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-flexible-leaderboard.mntl-leaderboard-header.has-right-label.leaderboard--header.comp
+www.thoughtco.com##.billboard-sticky.billboard1-sticky.right-rail__item.scads-to-load.comp
